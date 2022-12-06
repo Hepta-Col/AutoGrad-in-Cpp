@@ -32,9 +32,9 @@ void test01()
 
     Tensor out = msm.apply(loss);
 
-    out.bp();   // back propagation
+    out.bp(); // back propagation
 
-    y.printInfo("y");   // should has a grad matrix
+    y.printInfo("y"); // should has a grad matrix
     z.printInfo("z");
 
     loss.printInfo("loss");
