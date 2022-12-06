@@ -1,1 +1,1 @@
-This is a C++ implementation of Pytorch Autograd mechanism. 
+Naive back propagation in Cpp.
