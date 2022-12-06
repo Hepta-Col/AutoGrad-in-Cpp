@@ -1,1 +1,1 @@
-Naive back propagation in Cpp.
+PyTorch auto-grad mechanism implemented in Cpp.
