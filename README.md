@@ -19,7 +19,7 @@ Includes linear layer implementation. More blocks (like convolution block) could
 Includes 3-layer MLP implementation. More blocks (like CNN) could be added if needed.
 
 ## Optimizers: [optims.h](./sources/includes/optims_decl.h)
-The implementation of optimizer is lost for some reason. This part is cleared and left blank temporarily. You are welcomed to contribute code!
+The implementation of optimizer is on another computer but I have no access to it currently. This part is cleared and left blank temporarily. You are welcomed to contribute code!
 
 # Computational Graph Example
 ![avatar](./misc/BP.png)
