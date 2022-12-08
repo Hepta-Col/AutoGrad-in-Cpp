@@ -16,7 +16,7 @@ Includes matrix multiplication, matrix add a matrix (or a vector), matrix point-
 Includes linear layer implementation. More blocks (like convolution block) could be added if needed.  
 
 ## Modules: [modules.h](./sources/includes/modules_decl.h)
-Includes 3-layer MLP implementation. More blocks (like CNN) could be added if needed.
+Includes 3-layer MLP implementation. More modules (like CNN) could be added if needed.
 
 ## Optimizers: [optims.h](./sources/includes/optims_decl.h)
 The implementation of optimizer is on another computer but I have no access to it currently. This part is cleared and left blank temporarily. You are welcomed to contribute code!
